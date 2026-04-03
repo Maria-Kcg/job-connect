@@ -10,4 +10,5 @@ export type Job = {
     experience: string;
     competences: string[];
     contact: string;
+    secteur: string
 };

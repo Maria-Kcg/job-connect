@@ -11,9 +11,9 @@ function Routeur() {
             <Route element={<Layout />}>
                 <Route path="/" element={<Home />} />
                 <Route path="/jobs" element={<Jobs />} />
-                    <Route path="/details" element={<Details />} />F
-                    <Route path="*" element={<Error />} />
-                </Route>
+                <Route path="/details/:id" element={<Details />} />
+                <Route path="*" element={<Error />} />
+            </Route>
         </Routes>
     )
 }

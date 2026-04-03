@@ -4,7 +4,7 @@
         "titre": "Développeur Front-End",
         "entreprise": "TechBénin",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Créer des interfaces web modernes avec React.",
         "description": "Nous recherchons un développeur Front-End passionné.\n\nMissions :\n- Développer des interfaces\n- Collaborer avec les designers\n\nProfil :\n- React, JavaScript",
         "datePublication": "2026-04-01",
@@ -16,7 +16,8 @@
             "JavaScript",
             "React"
         ],
-        "contact": "hr@techbenin.bj"
+        "contact": "hr@techbenin.bj",
+        "secteur": "Informatique"
     },
     {
         "id": 2,
@@ -33,14 +34,15 @@
             "Marketing",
             "SEO"
         ],
-        "contact": "contact@digitalbenin.bj"
+        "contact": "contact@digitalbenin.bj",
+        "secteur": "Marketing"
     },
     {
         "id": 3,
         "titre": "Assistant(e) RH",
         "entreprise": "Banque Bénin",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps partiel",
+        "type": "CDD",
         "resume": "Assister dans la gestion RH.",
         "description": "Support RH.\n\nMissions :\n- Gestion dossiers\n- Recrutement",
         "datePublication": "2026-03-30",
@@ -49,14 +51,15 @@
         "competences": [
             "Organisation"
         ],
-        "contact": "rh@banquebenin.bj"
+        "contact": "rh@banquebenin.bj",
+        "secteur": "Ressources Humaines"
     },
     {
         "id": 4,
         "titre": "Développeur Back-End",
         "entreprise": "WebSolutions",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Créer des APIs et gérer les bases de données.",
         "description": "Développer et maintenir des services backend.\n\nMissions :\n- Node.js / Express\n- Base de données\n\nProfil :\n- Expérience backend",
         "datePublication": "2026-04-02",
@@ -67,14 +70,15 @@
             "Express",
             "MongoDB"
         ],
-        "contact": "hr@websolutions.bj"
+        "contact": "hr@websolutions.bj",
+        "secteur": "Informatique"
     },
     {
         "id": 5,
         "titre": "Designer UI/UX",
         "entreprise": "DesignPro",
         "lieu": "Parakou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Créer des interfaces et expériences utilisateur.",
         "description": "Concevoir et améliorer l'UI/UX des applications.\n\nMissions :\n- Maquettes\n- Prototypes\n\nProfil :\n- Adobe XD, Figma",
         "datePublication": "2026-03-25",
@@ -85,14 +89,15 @@
             "Adobe XD",
             "Design"
         ],
-        "contact": "contact@designpro.bj"
+        "contact": "contact@designpro.bj",
+        "secteur": "Design"
     },
     {
         "id": 6,
         "titre": "Community Manager",
         "entreprise": "SocialMedia Bénin",
         "lieu": "Porto-Novo, Bénin",
-        "type": "Stage",
+        "type": "CDD",
         "resume": "Animer les réseaux sociaux de l'entreprise.",
         "description": "Gérer la présence sur les réseaux sociaux.\n\nMissions :\n- Création de contenu\n- Analyse engagement\n\nProfil :\n- Bonne communication",
         "datePublication": "2026-04-01",
@@ -102,14 +107,15 @@
             "Communication",
             "Réseaux sociaux"
         ],
-        "contact": "hr@socialmediabenin.bj"
+        "contact": "hr@socialmediabenin.bj",
+        "secteur": "Marketing"
     },
     {
         "id": 7,
         "titre": "Chargé(e) Comptabilité",
         "entreprise": "FinancePlus",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Gérer la comptabilité et les finances.",
         "description": "Assurer la tenue des comptes.\n\nMissions :\n- Facturation\n- Suivi comptable\n\nProfil :\n- Maîtrise Excel et logiciel comptable",
         "datePublication": "2026-03-29",
@@ -120,14 +126,15 @@
             "Excel",
             "Finance"
         ],
-        "contact": "compta@financeplus.bj"
+        "contact": "compta@financeplus.bj",
+        "secteur": "Finance"
     },
     {
         "id": 8,
         "titre": "Développeur Mobile",
         "entreprise": "AppBénin",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Créer des applications mobiles pour Android et iOS.",
         "description": "Développer et maintenir les applications mobiles.\n\nMissions :\n- Flutter / React Native\n- Tests unitaires\n\nProfil :\n- Expérience mobile",
         "datePublication": "2026-04-02",
@@ -138,14 +145,15 @@
             "React Native",
             "Mobile"
         ],
-        "contact": "hr@appbenin.bj"
+        "contact": "hr@appbenin.bj",
+        "secteur": "Informatique"
     },
     {
         "id": 9,
         "titre": "Assistant(e) Commercial",
         "entreprise": "VentePlus",
         "lieu": "Porto-Novo, Bénin",
-        "type": "Temps partiel",
+        "type": "CDD",
         "resume": "Assister l'équipe commerciale dans ses missions.",
         "description": "Support aux ventes et relation client.\n\nMissions :\n- Prospection\n- Suivi clients\n\nProfil :\n- Bonne communication",
         "datePublication": "2026-03-30",
@@ -155,14 +163,15 @@
             "Organisation",
             "Relation client"
         ],
-        "contact": "com@venteplus.bj"
+        "contact": "com@venteplus.bj",
+        "secteur": "Commerce"
     },
     {
         "id": 10,
         "titre": "Chef de projet IT",
         "entreprise": "TechBénin",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Gérer des projets informatiques de A à Z.",
         "description": "Coordonner l'équipe et les ressources.\n\nMissions :\n- Planification\n- Suivi budget\n\nProfil :\n- Expérience gestion de projet",
         "datePublication": "2026-03-28",
@@ -172,14 +181,15 @@
             "Gestion de projet",
             "Communication"
         ],
-        "contact": "hr@techbenin.bj"
+        "contact": "hr@techbenin.bj",
+        "secteur": "Informatique"
     },
     {
         "id": 11,
         "titre": "Rédacteur(trice) Web",
         "entreprise": "ContentBénin",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Rédiger des contenus pour le web.",
         "description": "Créer des articles, posts et newsletters.\n\nMissions :\n- SEO\n- Blogging\n\nProfil :\n- Bonne maîtrise du français",
         "datePublication": "2026-03-29",
@@ -189,7 +199,8 @@
             "Rédaction",
             "SEO"
         ],
-        "contact": "contact@contentbenin.bj"
+        "contact": "contact@contentbenin.bj",
+        "secteur": "Marketing"
     },
     {
         "id": 12,
@@ -206,14 +217,15 @@
             "Support",
             "Communication"
         ],
-        "contact": "support@helpdesk.bj"
+        "contact": "support@helpdesk.bj",
+        "secteur": "Informatique"
     },
     {
         "id": 13,
         "titre": "Analyste Data",
         "entreprise": "DataBénin",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Analyser et interpréter des données.",
         "description": "Collecte et analyse des données pour guider les décisions.\n\nMissions :\n- Tableaux de bord\n- Reporting\n\nProfil :\n- Excel, Power BI",
         "datePublication": "2026-03-30",
@@ -224,14 +236,15 @@
             "Power BI",
             "Analyse"
         ],
-        "contact": "hr@databenin.bj"
+        "contact": "hr@databenin.bj",
+        "secteur": "Data"
     },
     {
         "id": 14,
         "titre": "Technicien Informatique",
         "entreprise": "TechSupport Bénin",
         "lieu": "Parakou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Maintenance et installation informatique.",
         "description": "Assurer le bon fonctionnement des systèmes.\n\nMissions :\n- Maintenance\n- Installation\n\nProfil :\n- Bonne connaissance hardware",
         "datePublication": "2026-03-27",
@@ -242,14 +255,15 @@
             "Software",
             "Support"
         ],
-        "contact": "tech@techsupport.bj"
+        "contact": "tech@techsupport.bj",
+        "secteur": "Informatique"
     },
     {
         "id": 15,
         "titre": "Responsable Logistique",
         "entreprise": "LogiBénin",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Gérer les flux logistiques et stocks.",
         "description": "Optimiser les processus logistiques.\n\nMissions :\n- Gestion stock\n- Planification transport\n\nProfil :\n- Organisation et rigueur",
         "datePublication": "2026-03-29",
@@ -259,14 +273,15 @@
             "Organisation",
             "Logistique"
         ],
-        "contact": "logistics@logibenin.bj"
+        "contact": "logistics@logibenin.bj",
+        "secteur": "Logistique"
     },
     {
         "id": 16,
         "titre": "Chargé(e) Relations Clients",
         "entreprise": "ServicePlus",
         "lieu": "Porto-Novo, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Assurer la satisfaction client.",
         "description": "Gérer la relation client.\n\nMissions :\n- Suivi client\n- Gestion réclamations\n\nProfil :\n- Bonne communication",
         "datePublication": "2026-04-01",
@@ -276,7 +291,8 @@
             "Communication",
             "Service client"
         ],
-        "contact": "client@serviceplus.bj"
+        "contact": "client@serviceplus.bj",
+        "secteur": "Service Client"
     },
     {
         "id": 17,
@@ -293,14 +309,15 @@
             "Social Media",
             "Créativité"
         ],
-        "contact": "hr@socialbuzz.bj"
+        "contact": "hr@socialbuzz.bj",
+        "secteur": "Marketing"
     },
     {
         "id": 18,
         "titre": "Développeur Fullstack",
         "entreprise": "WebInnov",
         "lieu": "Cotonou, Bénin",
-        "type": "Temps plein",
+        "type": "CDI",
         "resume": "Développer front-end et back-end.",
         "description": "Créer des applications complètes.\n\nMissions :\n- Frontend React\n- Backend Node.js\n\nProfil :\n- Polyvalent et motivé",
         "datePublication": "2026-03-30",
@@ -311,7 +328,8 @@
             "Node.js",
             "MongoDB"
         ],
-        "contact": "dev@webinnov.bj"
+        "contact": "dev@webinnov.bj",
+        "secteur": "Informatique"
     },
     {
         "id": 19,
@@ -328,7 +346,8 @@
             "Marketing",
             "Communication"
         ],
-        "contact": "marketing@marketplus.bj"
+        "contact": "marketing@marketplus.bj",
+        "secteur": "Marketing"
     },
     {
         "id": 20,
@@ -346,6 +365,7 @@
             "Power BI",
             "Analyse"
         ],
-        "contact": "hr@datainsight.bj"
+        "contact": "hr@datainsight.bj",
+        "secteur": "Data"
     }
 ]
