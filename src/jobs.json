@@ -1,0 +1,351 @@
+[
+    {
+        "id": 1,
+        "titre": "Développeur Front-End",
+        "entreprise": "TechBénin",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Créer des interfaces web modernes avec React.",
+        "description": "Nous recherchons un développeur Front-End passionné.\n\nMissions :\n- Développer des interfaces\n- Collaborer avec les designers\n\nProfil :\n- React, JavaScript",
+        "datePublication": "2026-04-01",
+        "dateLimite": "2026-04-15",
+        "experience": "1 à 3 ans",
+        "competences": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "contact": "hr@techbenin.bj"
+    },
+    {
+        "id": 2,
+        "titre": "Chargé(e) Marketing Digital",
+        "entreprise": "DigitalBénin",
+        "lieu": "Porto-Novo, Bénin",
+        "type": "Stage",
+        "resume": "Gérer les campagnes digitales.",
+        "description": "Participation aux campagnes marketing.\n\nMissions :\n- Réseaux sociaux\n- Analyse",
+        "datePublication": "2026-03-28",
+        "dateLimite": "2026-04-10",
+        "experience": "0 à 2 ans",
+        "competences": [
+            "Marketing",
+            "SEO"
+        ],
+        "contact": "contact@digitalbenin.bj"
+    },
+    {
+        "id": 3,
+        "titre": "Assistant(e) RH",
+        "entreprise": "Banque Bénin",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps partiel",
+        "resume": "Assister dans la gestion RH.",
+        "description": "Support RH.\n\nMissions :\n- Gestion dossiers\n- Recrutement",
+        "datePublication": "2026-03-30",
+        "dateLimite": "2026-04-12",
+        "experience": "1 an minimum",
+        "competences": [
+            "Organisation"
+        ],
+        "contact": "rh@banquebenin.bj"
+    },
+    {
+        "id": 4,
+        "titre": "Développeur Back-End",
+        "entreprise": "WebSolutions",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Créer des APIs et gérer les bases de données.",
+        "description": "Développer et maintenir des services backend.\n\nMissions :\n- Node.js / Express\n- Base de données\n\nProfil :\n- Expérience backend",
+        "datePublication": "2026-04-02",
+        "dateLimite": "2026-04-18",
+        "experience": "2 à 4 ans",
+        "competences": [
+            "Node.js",
+            "Express",
+            "MongoDB"
+        ],
+        "contact": "hr@websolutions.bj"
+    },
+    {
+        "id": 5,
+        "titre": "Designer UI/UX",
+        "entreprise": "DesignPro",
+        "lieu": "Parakou, Bénin",
+        "type": "Temps plein",
+        "resume": "Créer des interfaces et expériences utilisateur.",
+        "description": "Concevoir et améliorer l'UI/UX des applications.\n\nMissions :\n- Maquettes\n- Prototypes\n\nProfil :\n- Adobe XD, Figma",
+        "datePublication": "2026-03-25",
+        "dateLimite": "2026-04-10",
+        "experience": "1 à 3 ans",
+        "competences": [
+            "Figma",
+            "Adobe XD",
+            "Design"
+        ],
+        "contact": "contact@designpro.bj"
+    },
+    {
+        "id": 6,
+        "titre": "Community Manager",
+        "entreprise": "SocialMedia Bénin",
+        "lieu": "Porto-Novo, Bénin",
+        "type": "Stage",
+        "resume": "Animer les réseaux sociaux de l'entreprise.",
+        "description": "Gérer la présence sur les réseaux sociaux.\n\nMissions :\n- Création de contenu\n- Analyse engagement\n\nProfil :\n- Bonne communication",
+        "datePublication": "2026-04-01",
+        "dateLimite": "2026-04-15",
+        "experience": "0 à 1 an",
+        "competences": [
+            "Communication",
+            "Réseaux sociaux"
+        ],
+        "contact": "hr@socialmediabenin.bj"
+    },
+    {
+        "id": 7,
+        "titre": "Chargé(e) Comptabilité",
+        "entreprise": "FinancePlus",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Gérer la comptabilité et les finances.",
+        "description": "Assurer la tenue des comptes.\n\nMissions :\n- Facturation\n- Suivi comptable\n\nProfil :\n- Maîtrise Excel et logiciel comptable",
+        "datePublication": "2026-03-29",
+        "dateLimite": "2026-04-12",
+        "experience": "2 à 5 ans",
+        "competences": [
+            "Comptabilité",
+            "Excel",
+            "Finance"
+        ],
+        "contact": "compta@financeplus.bj"
+    },
+    {
+        "id": 8,
+        "titre": "Développeur Mobile",
+        "entreprise": "AppBénin",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Créer des applications mobiles pour Android et iOS.",
+        "description": "Développer et maintenir les applications mobiles.\n\nMissions :\n- Flutter / React Native\n- Tests unitaires\n\nProfil :\n- Expérience mobile",
+        "datePublication": "2026-04-02",
+        "dateLimite": "2026-04-20",
+        "experience": "1 à 3 ans",
+        "competences": [
+            "Flutter",
+            "React Native",
+            "Mobile"
+        ],
+        "contact": "hr@appbenin.bj"
+    },
+    {
+        "id": 9,
+        "titre": "Assistant(e) Commercial",
+        "entreprise": "VentePlus",
+        "lieu": "Porto-Novo, Bénin",
+        "type": "Temps partiel",
+        "resume": "Assister l'équipe commerciale dans ses missions.",
+        "description": "Support aux ventes et relation client.\n\nMissions :\n- Prospection\n- Suivi clients\n\nProfil :\n- Bonne communication",
+        "datePublication": "2026-03-30",
+        "dateLimite": "2026-04-15",
+        "experience": "0 à 2 ans",
+        "competences": [
+            "Organisation",
+            "Relation client"
+        ],
+        "contact": "com@venteplus.bj"
+    },
+    {
+        "id": 10,
+        "titre": "Chef de projet IT",
+        "entreprise": "TechBénin",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Gérer des projets informatiques de A à Z.",
+        "description": "Coordonner l'équipe et les ressources.\n\nMissions :\n- Planification\n- Suivi budget\n\nProfil :\n- Expérience gestion de projet",
+        "datePublication": "2026-03-28",
+        "dateLimite": "2026-04-18",
+        "experience": "3 à 5 ans",
+        "competences": [
+            "Gestion de projet",
+            "Communication"
+        ],
+        "contact": "hr@techbenin.bj"
+    },
+    {
+        "id": 11,
+        "titre": "Rédacteur(trice) Web",
+        "entreprise": "ContentBénin",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Rédiger des contenus pour le web.",
+        "description": "Créer des articles, posts et newsletters.\n\nMissions :\n- SEO\n- Blogging\n\nProfil :\n- Bonne maîtrise du français",
+        "datePublication": "2026-03-29",
+        "dateLimite": "2026-04-12",
+        "experience": "1 à 3 ans",
+        "competences": [
+            "Rédaction",
+            "SEO"
+        ],
+        "contact": "contact@contentbenin.bj"
+    },
+    {
+        "id": 12,
+        "titre": "Assistant(e) Support Technique",
+        "entreprise": "HelpDesk Bénin",
+        "lieu": "Porto-Novo, Bénin",
+        "type": "Stage",
+        "resume": "Aider les clients pour leurs problèmes techniques.",
+        "description": "Assurer le support technique aux clients.\n\nMissions :\n- Assistance utilisateurs\n- Suivi tickets\n\nProfil :\n- Patience et réactivité",
+        "datePublication": "2026-04-01",
+        "dateLimite": "2026-04-15",
+        "experience": "0 à 1 an",
+        "competences": [
+            "Support",
+            "Communication"
+        ],
+        "contact": "support@helpdesk.bj"
+    },
+    {
+        "id": 13,
+        "titre": "Analyste Data",
+        "entreprise": "DataBénin",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Analyser et interpréter des données.",
+        "description": "Collecte et analyse des données pour guider les décisions.\n\nMissions :\n- Tableaux de bord\n- Reporting\n\nProfil :\n- Excel, Power BI",
+        "datePublication": "2026-03-30",
+        "dateLimite": "2026-04-18",
+        "experience": "1 à 3 ans",
+        "competences": [
+            "Excel",
+            "Power BI",
+            "Analyse"
+        ],
+        "contact": "hr@databenin.bj"
+    },
+    {
+        "id": 14,
+        "titre": "Technicien Informatique",
+        "entreprise": "TechSupport Bénin",
+        "lieu": "Parakou, Bénin",
+        "type": "Temps plein",
+        "resume": "Maintenance et installation informatique.",
+        "description": "Assurer le bon fonctionnement des systèmes.\n\nMissions :\n- Maintenance\n- Installation\n\nProfil :\n- Bonne connaissance hardware",
+        "datePublication": "2026-03-27",
+        "dateLimite": "2026-04-12",
+        "experience": "1 à 2 ans",
+        "competences": [
+            "Hardware",
+            "Software",
+            "Support"
+        ],
+        "contact": "tech@techsupport.bj"
+    },
+    {
+        "id": 15,
+        "titre": "Responsable Logistique",
+        "entreprise": "LogiBénin",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Gérer les flux logistiques et stocks.",
+        "description": "Optimiser les processus logistiques.\n\nMissions :\n- Gestion stock\n- Planification transport\n\nProfil :\n- Organisation et rigueur",
+        "datePublication": "2026-03-29",
+        "dateLimite": "2026-04-20",
+        "experience": "2 à 4 ans",
+        "competences": [
+            "Organisation",
+            "Logistique"
+        ],
+        "contact": "logistics@logibenin.bj"
+    },
+    {
+        "id": 16,
+        "titre": "Chargé(e) Relations Clients",
+        "entreprise": "ServicePlus",
+        "lieu": "Porto-Novo, Bénin",
+        "type": "Temps plein",
+        "resume": "Assurer la satisfaction client.",
+        "description": "Gérer la relation client.\n\nMissions :\n- Suivi client\n- Gestion réclamations\n\nProfil :\n- Bonne communication",
+        "datePublication": "2026-04-01",
+        "dateLimite": "2026-04-18",
+        "experience": "1 à 3 ans",
+        "competences": [
+            "Communication",
+            "Service client"
+        ],
+        "contact": "client@serviceplus.bj"
+    },
+    {
+        "id": 17,
+        "titre": "Community Manager Junior",
+        "entreprise": "SocialBuzz",
+        "lieu": "Cotonou, Bénin",
+        "type": "Stage",
+        "resume": "Gérer les réseaux sociaux pour des clients.",
+        "description": "Créer et programmer du contenu.\n\nMissions :\n- Posts réseaux sociaux\n- Analyse engagement\n\nProfil :\n- Créatif et dynamique",
+        "datePublication": "2026-03-28",
+        "dateLimite": "2026-04-12",
+        "experience": "0 à 1 an",
+        "competences": [
+            "Social Media",
+            "Créativité"
+        ],
+        "contact": "hr@socialbuzz.bj"
+    },
+    {
+        "id": 18,
+        "titre": "Développeur Fullstack",
+        "entreprise": "WebInnov",
+        "lieu": "Cotonou, Bénin",
+        "type": "Temps plein",
+        "resume": "Développer front-end et back-end.",
+        "description": "Créer des applications complètes.\n\nMissions :\n- Frontend React\n- Backend Node.js\n\nProfil :\n- Polyvalent et motivé",
+        "datePublication": "2026-03-30",
+        "dateLimite": "2026-04-20",
+        "experience": "2 à 4 ans",
+        "competences": [
+            "React",
+            "Node.js",
+            "MongoDB"
+        ],
+        "contact": "dev@webinnov.bj"
+    },
+    {
+        "id": 19,
+        "titre": "Assistant(e) Marketing",
+        "entreprise": "MarketPlus",
+        "lieu": "Porto-Novo, Bénin",
+        "type": "Stage",
+        "resume": "Support marketing et communication.",
+        "description": "Aider l'équipe marketing.\n\nMissions :\n- Création contenu\n- Reporting\n\nProfil :\n- Curieux et organisé",
+        "datePublication": "2026-03-31",
+        "dateLimite": "2026-04-12",
+        "experience": "0 à 2 ans",
+        "competences": [
+            "Marketing",
+            "Communication"
+        ],
+        "contact": "marketing@marketplus.bj"
+    },
+    {
+        "id": 20,
+        "titre": "Data Analyst Junior",
+        "entreprise": "DataInsight",
+        "lieu": "Cotonou, Bénin",
+        "type": "Stage",
+        "resume": "Analyser des données et créer des rapports.",
+        "description": "Collecte et analyse de données.\n\nMissions :\n- Tableaux de bord\n- Reporting\n\nProfil :\n- Excel et Power BI",
+        "datePublication": "2026-03-31",
+        "dateLimite": "2026-04-18",
+        "experience": "0 à 1 an",
+        "competences": [
+            "Excel",
+            "Power BI",
+            "Analyse"
+        ],
+        "contact": "hr@datainsight.bj"
+    }
+]
